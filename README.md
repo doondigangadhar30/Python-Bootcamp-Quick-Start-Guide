@@ -4,4 +4,5 @@ Master Python through a concise, project-based approach with focused projects. T
 - **Web Development**
 - **Game Design**
 - **App Creation**
+  <br>
 Whether you're a beginner aiming to build foundational projects or seeking to enhance your skills, this journey will equip you with practical knowledge and real-world coding experience in a short period.
